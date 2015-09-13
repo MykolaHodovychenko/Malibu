@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_reconnect"
+        android:orderInCategory="101"
+        android:title=""
+        android:icon="@drawable/ic_action_reconnect"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_info"
+        android:orderInCategory="102"
+        android:title=""
+        android:icon="@drawable/ic_action_info"
+        app:showAsAction="always"/>
+
+</menu>
+<!-- From: file:/D:/!Android/Projects/Malibu/app/src/main/res/menu/menu_main.xml -->

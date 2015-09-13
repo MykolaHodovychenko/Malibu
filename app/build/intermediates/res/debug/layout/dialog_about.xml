@@ -1,0 +1,182 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="fill"
+            android:background="#ffffff"
+            android:gravity="fill"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:id="@+id/hello_message"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:alpha="1"
+                android:gravity="center"
+                android:text="Сканер QR-кодов для системы"
+                android:textColor="#de000000"
+                android:textIsSelectable="true"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:alpha="1"
+                android:gravity="center"
+                android:text="Malibu sport authorized access"
+                android:textColor="#de000000"
+                android:textIsSelectable="true"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:alpha="1"
+                android:gravity="center"
+                android:text="Система разработана в рамках европейского TEMPUS-проекта"
+                android:textColor="#de000000"
+                android:textIsSelectable="true"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:alpha="1"
+                android:gravity="center"
+                android:text="&quot;Innovation hybrid strategy of IT-outsourcing Partnership with Enterprises&quot;"
+                android:textColor="#de000000"
+                android:textIsSelectable="true"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:alpha="1"
+                android:gravity="center"
+                android:text="Представители сети фитнес-клубов &quot;Малибу&quot;: "
+                android:textColor="#de000000"
+                android:textIsSelectable="true"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:alpha="1"
+                android:gravity="center"
+                android:text="Дмитрий Черный, Ирина Третьяк"
+                android:textColor="#de000000"
+                android:textIsSelectable="true"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:alpha="1"
+                android:gravity="center"
+                android:text="Представители ОНПУ:"
+                android:textColor="#de000000"
+                android:textIsSelectable="true"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:alpha="1"
+                android:gravity="center"
+                android:text="Антощук Светлана, Бровков Владимир, Годовиченко Николай"
+                android:textColor="#de000000"
+                android:textIsSelectable="true"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:alpha="1"
+                android:gravity="center"
+                android:text="Команда разработчиков (ОНПУ):"
+                android:textColor="#de000000"
+                android:textIsSelectable="true"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:alpha="1"
+                android:gravity="center"
+                android:text="Самборский Сергей, Водник Дмитрий, Комаров Александр, Митрофанов Борислав, Чанова Валерия, Домброван Елена"
+                android:textColor="#de000000"
+                android:textIsSelectable="true"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:alpha="1"
+                android:gravity="center"
+                android:text="Координатор проекта в Украине:"
+                android:textColor="#de000000"
+                android:textIsSelectable="true"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:alpha="1"
+                android:gravity="center"
+                android:text="Белоус Наталья (ХНУРЭ)"
+                android:textColor="#de000000"
+                android:textIsSelectable="true"
+                android:textSize="15dp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Закрыть" />
+
+            <ScrollView
+                android:id="@+id/scrollView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>
+
+
+
+
+<!-- From: file:/D:/!Android/Projects/Malibu/app/src/main/res/layout/dialog_about.xml -->

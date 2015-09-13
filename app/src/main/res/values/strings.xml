@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Сканер QR-кодов</string>
+
+    <string name="error_qr_format">Ошибка, неверный формат данных QR-кода</string>
+    <string name="error_qr_scan">Ошибка сканирования QR-кода</string>
+    <string name="qr_scan_cancelled">Сканирование отменено</string>
+    <string name="error_no_internet_connection">Устройство не подключено к интернету</string>
+
+    <string name="error_scan_intent">Не удалось подключиться запустить сканер QR-кодов</string>
+
+    <string name="ok_message_sent">Данные успешно отправлены на сервер</string>
+    <string name="error_mqtt_connection_lost">Соединение с сервером потеряно, отсканируйте QR-код еще раз</string>
+    <string name="error_mqtt_noclient">Не удалось подключиться к серверу, переподключитесь</string>
+
+</resources>

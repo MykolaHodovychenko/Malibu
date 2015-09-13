@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/hello_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Происходит поиск локального сервера, подождите немного"
+        android:textColor="#de000000"
+        android:textIsSelectable="true"
+        android:alpha="1"
+        android:textSize="15dp" />
+
+    <com.dd.CircularProgressButton
+        android:id="@+id/connect"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="30dp"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        app:cpb_textComplete="Сервер найден, нажмите для входа"
+        app:cpb_textError="Cервер не найден, попробуйте еще раз"
+        app:cpb_textIdle="Найти сервер" />
+
+</LinearLayout>
+
+<!-- From: file:/D:/!Android/Projects/Malibu/app/src/main/res/layout/dialog_connection.xml -->

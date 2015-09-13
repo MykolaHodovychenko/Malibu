@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\NickGodov\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.0.2\11752d3f24d1a9deda4533a7ca18d8496417ceeb\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
+        <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.2-fac0bd743cf410b58c09f1a92ac09d1cdc4ea77b.jar" />
+    </item>
+    <item
+        jar="C:\Users\NickGodov\.gradle\caches\modules-2\files-2.1\com.rabbitmq\amqp-client\3.5.1\6086769bfb7a5054d97b855676aaa525b523f405\amqp-client-3.5.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6086769bfb7a5054d97b855676aaa525b523f405">
+        <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\amqp-client-3.5.1-7178b42aa625db87ad220c4300d7786cb9900353.jar" />
+    </item>
+    <item
+        jar="C:\Users\NickGodov\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\core-3.2.0-8d4d6c02e3b32bde4e0f648f25cb9d3f61b1ace6.jar" />
+    </item>
+
+</items>
