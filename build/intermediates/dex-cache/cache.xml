@@ -2,11 +2,46 @@
 <items version="2" >
 
     <item
+        jar="D:\!Android\Projects\Malibu\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\classes-a6efd1a7db41b6abca7ef1447c40a2b4ba36d54e.jar" />
+    </item>
+    <item
+        jar="D:\!Android\Projects\Malibu\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.9.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4b681a6084ef53d2825520fc77fcaddde351f64">
+        <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\classes-4b5cf55e9419627a2e88cffd49a357458d1a71c4.jar" />
+    </item>
+    <item
+        jar="D:\!Android\Projects\Malibu\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\classes-cd7653b5d0307583ffeeffd85587dcd6667d798e.jar" />
+    </item>
+    <item
+        jar="D:\!Android\Projects\Malibu\app\build\intermediates\exploded-aar\com.github.dmytrodanylyk.circular-progress-button\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8a6ed980c74ad35b2dfc4e1daf97bfc0eea5d7c9">
+        <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\classes-3931926879902ae2e6cf81c8b8573e0cba1a9cad.jar" />
+    </item>
+    <item
         jar="C:\Users\NickGodov\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.0.2\11752d3f24d1a9deda4533a7ca18d8496417ceeb\org.eclipse.paho.client.mqttv3-1.0.2.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="11752d3f24d1a9deda4533a7ca18d8496417ceeb">
         <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.2-fac0bd743cf410b58c09f1a92ac09d1cdc4ea77b.jar" />
+    </item>
+    <item
+        jar="D:\!Android\Projects\Malibu\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\classes-200c8d77f86b3485a204aaa2b521fecb96db0bc0.jar" />
     </item>
     <item
         jar="C:\Users\NickGodov\.gradle\caches\modules-2\files-2.1\com.rabbitmq\amqp-client\3.5.1\6086769bfb7a5054d97b855676aaa525b523f405\amqp-client-3.5.1.jar"
@@ -16,11 +51,39 @@
         <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\amqp-client-3.5.1-7178b42aa625db87ad220c4300d7786cb9900353.jar" />
     </item>
     <item
+        jar="D:\!Android\Projects\Malibu\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\classes-0aa72a7f9c6f54749e1f9760dff6311a829551d8.jar" />
+    </item>
+    <item
+        jar="D:\!Android\Projects\Malibu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\classes-5bdc19f3f50da41f81864da44bc36cbc9a5da6df.jar" />
+    </item>
+    <item
         jar="C:\Users\NickGodov\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
         <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\core-3.2.0-8d4d6c02e3b32bde4e0f648f25cb9d3f61b1ace6.jar" />
+    </item>
+    <item
+        jar="C:\Users\NickGodov\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-0d345d57d4cda02f89c9ae0d86a140eaa22801fa.jar" />
+    </item>
+    <item
+        jar="D:\!Android\Projects\Malibu\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\!Android\Projects\Malibu\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-f7c89794bd9160905f6a28cfe219c1c4c768f2da.jar" />
     </item>
 
 </items>
