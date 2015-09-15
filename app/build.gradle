@@ -4,16 +4,28 @@ android {
     compileSdkVersion 22
     buildToolsVersion "22.0.1"
 
+    signingConfigs {
+
+        release {
+            storeFile file("../malibuKey.jks")
+            storePassword "malibusport"
+            keyAlias "malibuFitness"
+            keyPassword "malibusport"
+        }
+    }
+
     defaultConfig {
-        applicationId "ua.opu.itsea.malibu"
+        applicationId "com.malibu_sport.malibu_QR_reader"
         minSdkVersion 15
         targetSdkVersion 22
-        versionCode 1
-        versionName "1.0"
+        versionCode 5
+        versionName "2.0.1"
     }
+
     buildTypes {
         release {
             minifyEnabled false
+            signingConfig signingConfigs.release
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
