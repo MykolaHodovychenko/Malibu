@@ -50,7 +50,7 @@ public class MainActivity extends Activity {
     EditText mLogin;
     EditText mPassword;
 
-    String remoteURL = "http://malibu.easyfitapp.net/api/public/clubs";
+    String remoteURL = "http://test.easyfitapp.net/api/public/clubs";
     String login = "quest";
     String pass = "qwerty";
 

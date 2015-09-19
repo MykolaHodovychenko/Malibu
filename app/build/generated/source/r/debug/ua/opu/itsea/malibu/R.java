@@ -2975,33 +2975,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background ua.opu.itsea.malibu:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit ua.opu.itsea.malibu:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked ua.opu.itsea.malibu:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd ua.opu.itsea.malibu:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft ua.opu.itsea.malibu:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight ua.opu.itsea.malibu:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart ua.opu.itsea.malibu:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout ua.opu.itsea.malibu:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions ua.opu.itsea.malibu:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider ua.opu.itsea.malibu:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation ua.opu.itsea.malibu:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height ua.opu.itsea.malibu:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll ua.opu.itsea.malibu:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator ua.opu.itsea.malibu:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout ua.opu.itsea.malibu:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon ua.opu.itsea.malibu:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle ua.opu.itsea.malibu:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding ua.opu.itsea.malibu:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo ua.opu.itsea.malibu:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode ua.opu.itsea.malibu:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme ua.opu.itsea.malibu:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding ua.opu.itsea.malibu:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle ua.opu.itsea.malibu:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle ua.opu.itsea.malibu:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle ua.opu.itsea.malibu:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title ua.opu.itsea.malibu:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle ua.opu.itsea.malibu:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.malibu_sport.malibu_QR_reader:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.malibu_sport.malibu_QR_reader:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.malibu_sport.malibu_QR_reader:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.malibu_sport.malibu_QR_reader:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.malibu_sport.malibu_QR_reader:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.malibu_sport.malibu_QR_reader:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.malibu_sport.malibu_QR_reader:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.malibu_sport.malibu_QR_reader:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.malibu_sport.malibu_QR_reader:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.malibu_sport.malibu_QR_reader:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.malibu_sport.malibu_QR_reader:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.malibu_sport.malibu_QR_reader:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.malibu_sport.malibu_QR_reader:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.malibu_sport.malibu_QR_reader:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.malibu_sport.malibu_QR_reader:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.malibu_sport.malibu_QR_reader:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.malibu_sport.malibu_QR_reader:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.malibu_sport.malibu_QR_reader:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.malibu_sport.malibu_QR_reader:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.malibu_sport.malibu_QR_reader:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.malibu_sport.malibu_QR_reader:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.malibu_sport.malibu_QR_reader:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.malibu_sport.malibu_QR_reader:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.malibu_sport.malibu_QR_reader:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.malibu_sport.malibu_QR_reader:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.malibu_sport.malibu_QR_reader:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.malibu_sport.malibu_QR_reader:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3041,17 +3041,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f0100d9
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#background}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:background
+          @attr name com.malibu_sport.malibu_QR_reader:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3059,11 +3059,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ua.opu.itsea.malibu:backgroundSplit
+          @attr name com.malibu_sport.malibu_QR_reader:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3071,11 +3071,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ua.opu.itsea.malibu:backgroundStacked
+          @attr name com.malibu_sport.malibu_QR_reader:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3087,11 +3087,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentInsetEnd
+          @attr name com.malibu_sport.malibu_QR_reader:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3103,11 +3103,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentInsetLeft
+          @attr name com.malibu_sport.malibu_QR_reader:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3119,11 +3119,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentInsetRight
+          @attr name com.malibu_sport.malibu_QR_reader:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3135,21 +3135,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentInsetStart
+          @attr name com.malibu_sport.malibu_QR_reader:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:customNavigationLayout
+          @attr name com.malibu_sport.malibu_QR_reader:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3167,21 +3167,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:displayOptions
+          @attr name com.malibu_sport.malibu_QR_reader:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:divider
+          @attr name com.malibu_sport.malibu_QR_reader:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3193,11 +3193,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:elevation
+          @attr name com.malibu_sport.malibu_QR_reader:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#height}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3209,11 +3209,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:height
+          @attr name com.malibu_sport.malibu_QR_reader:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3223,51 +3223,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:hideOnContentScroll
+          @attr name com.malibu_sport.malibu_QR_reader:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:homeAsUpIndicator
+          @attr name com.malibu_sport.malibu_QR_reader:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:homeLayout
+          @attr name com.malibu_sport.malibu_QR_reader:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:icon
+          @attr name com.malibu_sport.malibu_QR_reader:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:indeterminateProgressStyle
+          @attr name com.malibu_sport.malibu_QR_reader:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3279,21 +3279,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:itemPadding
+          @attr name com.malibu_sport.malibu_QR_reader:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:logo
+          @attr name com.malibu_sport.malibu_QR_reader:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3307,21 +3307,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:navigationMode
+          @attr name com.malibu_sport.malibu_QR_reader:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:popupTheme
+          @attr name com.malibu_sport.malibu_QR_reader:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3333,21 +3333,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:progressBarPadding
+          @attr name com.malibu_sport.malibu_QR_reader:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:progressBarStyle
+          @attr name com.malibu_sport.malibu_QR_reader:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3357,21 +3357,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:subtitle
+          @attr name com.malibu_sport.malibu_QR_reader:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:subtitleTextStyle
+          @attr name com.malibu_sport.malibu_QR_reader:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#title}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3381,17 +3381,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:title
+          @attr name com.malibu_sport.malibu_QR_reader:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:titleTextStyle
+          @attr name com.malibu_sport.malibu_QR_reader:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3443,12 +3443,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background ua.opu.itsea.malibu:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit ua.opu.itsea.malibu:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout ua.opu.itsea.malibu:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height ua.opu.itsea.malibu:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle ua.opu.itsea.malibu:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle ua.opu.itsea.malibu:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.malibu_sport.malibu_QR_reader:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.malibu_sport.malibu_QR_reader:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.malibu_sport.malibu_QR_reader:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.malibu_sport.malibu_QR_reader:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.malibu_sport.malibu_QR_reader:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.malibu_sport.malibu_QR_reader:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3462,17 +3462,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#background}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:background
+          @attr name com.malibu_sport.malibu_QR_reader:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3480,21 +3480,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ua.opu.itsea.malibu:backgroundSplit
+          @attr name com.malibu_sport.malibu_QR_reader:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:closeItemLayout
+          @attr name com.malibu_sport.malibu_QR_reader:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#height}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3506,27 +3506,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:height
+          @attr name com.malibu_sport.malibu_QR_reader:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:subtitleTextStyle
+          @attr name com.malibu_sport.malibu_QR_reader:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:titleTextStyle
+          @attr name com.malibu_sport.malibu_QR_reader:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -3535,8 +3535,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable ua.opu.itsea.malibu:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount ua.opu.itsea.malibu:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.malibu_sport.malibu_QR_reader:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.malibu_sport.malibu_QR_reader:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3545,17 +3545,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:expandActivityOverflowButtonDrawable
+          @attr name com.malibu_sport.malibu_QR_reader:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -3565,7 +3565,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:initialActivityCount
+          @attr name com.malibu_sport.malibu_QR_reader:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AddFloatingActionButton.
@@ -3574,7 +3574,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AddFloatingActionButton_fab_plusIconColor ua.opu.itsea.malibu:fab_plusIconColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AddFloatingActionButton_fab_plusIconColor com.malibu_sport.malibu_QR_reader:fab_plusIconColor}</code></td><td></td></tr>
            </table>
            @see #AddFloatingActionButton_fab_plusIconColor
          */
@@ -3582,7 +3582,7 @@ containing a value of this type.
             0x7f01001f
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_plusIconColor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_plusIconColor}
           attribute's value can be found in the {@link #AddFloatingActionButton} array.
 
 
@@ -3593,7 +3593,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:fab_plusIconColor
+          @attr name com.malibu_sport.malibu_QR_reader:fab_plusIconColor
         */
         public static final int AddFloatingActionButton_fab_plusIconColor = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -3603,11 +3603,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout ua.opu.itsea.malibu:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout ua.opu.itsea.malibu:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout ua.opu.itsea.malibu:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout ua.opu.itsea.malibu:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout ua.opu.itsea.malibu:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.malibu_sport.malibu_QR_reader:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.malibu_sport.malibu_QR_reader:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.malibu_sport.malibu_QR_reader:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.malibu_sport.malibu_QR_reader:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.malibu_sport.malibu_QR_reader:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -3627,53 +3627,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:buttonPanelSideLayout
+          @attr name com.malibu_sport.malibu_QR_reader:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:listItemLayout
+          @attr name com.malibu_sport.malibu_QR_reader:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:listLayout
+          @attr name com.malibu_sport.malibu_QR_reader:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:multiChoiceItemLayout
+          @attr name com.malibu_sport.malibu_QR_reader:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:singleChoiceItemLayout
+          @attr name com.malibu_sport.malibu_QR_reader:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -3683,7 +3683,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation ua.opu.itsea.malibu:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.malibu_sport.malibu_QR_reader:elevation}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -3698,7 +3698,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -3710,7 +3710,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:elevation
+          @attr name com.malibu_sport.malibu_QR_reader:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /** Attributes that can be used with a AppBarLayout_LayoutParams.
@@ -3719,8 +3719,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags ua.opu.itsea.malibu:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator ua.opu.itsea.malibu:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags com.malibu_sport.malibu_QR_reader:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator com.malibu_sport.malibu_QR_reader:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_LayoutParams_layout_scrollFlags
            @see #AppBarLayout_LayoutParams_layout_scrollInterpolator
@@ -3729,7 +3729,7 @@ containing a value of this type.
             0x7f010025, 0x7f010026
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
 
 
@@ -3744,17 +3744,17 @@ containing a value of this type.
 <tr><td><code>enterAlways</code></td><td>0x4</td><td></td></tr>
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:layout_scrollFlags
+          @attr name com.malibu_sport.malibu_QR_reader:layout_scrollFlags
         */
         public static final int AppBarLayout_LayoutParams_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:layout_scrollInterpolator
+          @attr name com.malibu_sport.malibu_QR_reader:layout_scrollInterpolator
         */
         public static final int AppBarLayout_LayoutParams_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatTextView.
@@ -3764,7 +3764,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps ua.opu.itsea.malibu:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.malibu_sport.malibu_QR_reader:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3779,14 +3779,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name ua.opu.itsea.malibu:textAllCaps
+          @attr name com.malibu_sport.malibu_QR_reader:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a CardView.
@@ -3795,17 +3795,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor ua.opu.itsea.malibu:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius ua.opu.itsea.malibu:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation ua.opu.itsea.malibu:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation ua.opu.itsea.malibu:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap ua.opu.itsea.malibu:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding ua.opu.itsea.malibu:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding ua.opu.itsea.malibu:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom ua.opu.itsea.malibu:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft ua.opu.itsea.malibu:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight ua.opu.itsea.malibu:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop ua.opu.itsea.malibu:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor com.malibu_sport.malibu_QR_reader:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius com.malibu_sport.malibu_QR_reader:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation com.malibu_sport.malibu_QR_reader:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation com.malibu_sport.malibu_QR_reader:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.malibu_sport.malibu_QR_reader:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding com.malibu_sport.malibu_QR_reader:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding com.malibu_sport.malibu_QR_reader:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom com.malibu_sport.malibu_QR_reader:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft com.malibu_sport.malibu_QR_reader:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight com.malibu_sport.malibu_QR_reader:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop com.malibu_sport.malibu_QR_reader:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_cardBackgroundColor
            @see #CardView_cardCornerRadius
@@ -3825,7 +3825,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010030, 0x7f010031, 0x7f010032
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3836,11 +3836,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cardBackgroundColor
+          @attr name com.malibu_sport.malibu_QR_reader:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3852,11 +3852,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cardCornerRadius
+          @attr name com.malibu_sport.malibu_QR_reader:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3868,11 +3868,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cardElevation
+          @attr name com.malibu_sport.malibu_QR_reader:cardElevation
         */
         public static final int CardView_cardElevation = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3884,11 +3884,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cardMaxElevation
+          @attr name com.malibu_sport.malibu_QR_reader:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3898,11 +3898,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cardPreventCornerOverlap
+          @attr name com.malibu_sport.malibu_QR_reader:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3912,11 +3912,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cardUseCompatPadding
+          @attr name com.malibu_sport.malibu_QR_reader:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3928,11 +3928,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentPadding
+          @attr name com.malibu_sport.malibu_QR_reader:contentPadding
         */
         public static final int CardView_contentPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3944,11 +3944,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentPaddingBottom
+          @attr name com.malibu_sport.malibu_QR_reader:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 10;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3960,11 +3960,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentPaddingLeft
+          @attr name com.malibu_sport.malibu_QR_reader:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3976,11 +3976,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentPaddingRight
+          @attr name com.malibu_sport.malibu_QR_reader:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 8;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3992,7 +3992,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentPaddingTop
+          @attr name com.malibu_sport.malibu_QR_reader:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 9;
         /** Attributes that can be used with a CircularProgressButton.
@@ -4001,20 +4001,20 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_colorIndicator ua.opu.itsea.malibu:cpb_colorIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_colorIndicatorBackground ua.opu.itsea.malibu:cpb_colorIndicatorBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_colorProgress ua.opu.itsea.malibu:cpb_colorProgress}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_cornerRadius ua.opu.itsea.malibu:cpb_cornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_iconComplete ua.opu.itsea.malibu:cpb_iconComplete}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_iconError ua.opu.itsea.malibu:cpb_iconError}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_paddingProgress ua.opu.itsea.malibu:cpb_paddingProgress}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_selectorComplete ua.opu.itsea.malibu:cpb_selectorComplete}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_selectorError ua.opu.itsea.malibu:cpb_selectorError}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_selectorIdle ua.opu.itsea.malibu:cpb_selectorIdle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_textComplete ua.opu.itsea.malibu:cpb_textComplete}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_textError ua.opu.itsea.malibu:cpb_textError}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_textIdle ua.opu.itsea.malibu:cpb_textIdle}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircularProgressButton_cpb_textProgress ua.opu.itsea.malibu:cpb_textProgress}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_colorIndicator com.malibu_sport.malibu_QR_reader:cpb_colorIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_colorIndicatorBackground com.malibu_sport.malibu_QR_reader:cpb_colorIndicatorBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_colorProgress com.malibu_sport.malibu_QR_reader:cpb_colorProgress}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_cornerRadius com.malibu_sport.malibu_QR_reader:cpb_cornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_iconComplete com.malibu_sport.malibu_QR_reader:cpb_iconComplete}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_iconError com.malibu_sport.malibu_QR_reader:cpb_iconError}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_paddingProgress com.malibu_sport.malibu_QR_reader:cpb_paddingProgress}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_selectorComplete com.malibu_sport.malibu_QR_reader:cpb_selectorComplete}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_selectorError com.malibu_sport.malibu_QR_reader:cpb_selectorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_selectorIdle com.malibu_sport.malibu_QR_reader:cpb_selectorIdle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_textComplete com.malibu_sport.malibu_QR_reader:cpb_textComplete}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_textError com.malibu_sport.malibu_QR_reader:cpb_textError}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_textIdle com.malibu_sport.malibu_QR_reader:cpb_textIdle}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircularProgressButton_cpb_textProgress com.malibu_sport.malibu_QR_reader:cpb_textProgress}</code></td><td></td></tr>
            </table>
            @see #CircularProgressButton_cpb_colorIndicator
            @see #CircularProgressButton_cpb_colorIndicatorBackground
@@ -4038,7 +4038,7 @@ containing a value of this type.
             0x7f01003f, 0x7f010040
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_colorIndicator}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_colorIndicator}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
@@ -4049,11 +4049,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cpb_colorIndicator
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_colorIndicator
         */
         public static final int CircularProgressButton_cpb_colorIndicator = 8;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_colorIndicatorBackground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_colorIndicatorBackground}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
@@ -4064,11 +4064,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cpb_colorIndicatorBackground
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_colorIndicatorBackground
         */
         public static final int CircularProgressButton_cpb_colorIndicatorBackground = 9;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_colorProgress}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_colorProgress}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
@@ -4079,11 +4079,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cpb_colorProgress
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_colorProgress
         */
         public static final int CircularProgressButton_cpb_colorProgress = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_cornerRadius}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_cornerRadius}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
@@ -4095,31 +4095,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cpb_cornerRadius
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_cornerRadius
         */
         public static final int CircularProgressButton_cpb_cornerRadius = 12;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_iconComplete}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_iconComplete}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:cpb_iconComplete
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_iconComplete
         */
         public static final int CircularProgressButton_cpb_iconComplete = 11;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_iconError}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_iconError}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:cpb_iconError
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_iconError
         */
         public static final int CircularProgressButton_cpb_iconError = 10;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_paddingProgress}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_paddingProgress}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
@@ -4131,41 +4131,41 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cpb_paddingProgress
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_paddingProgress
         */
         public static final int CircularProgressButton_cpb_paddingProgress = 13;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_selectorComplete}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_selectorComplete}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:cpb_selectorComplete
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_selectorComplete
         */
         public static final int CircularProgressButton_cpb_selectorComplete = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_selectorError}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_selectorError}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:cpb_selectorError
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_selectorError
         */
         public static final int CircularProgressButton_cpb_selectorError = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_selectorIdle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_selectorIdle}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:cpb_selectorIdle
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_selectorIdle
         */
         public static final int CircularProgressButton_cpb_selectorIdle = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_textComplete}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_textComplete}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
@@ -4175,11 +4175,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cpb_textComplete
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_textComplete
         */
         public static final int CircularProgressButton_cpb_textComplete = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_textError}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_textError}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
@@ -4189,11 +4189,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cpb_textError
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_textError
         */
         public static final int CircularProgressButton_cpb_textError = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_textIdle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_textIdle}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
@@ -4203,11 +4203,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cpb_textIdle
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_textIdle
         */
         public static final int CircularProgressButton_cpb_textIdle = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#cpb_textProgress}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#cpb_textProgress}
           attribute's value can be found in the {@link #CircularProgressButton} array.
 
 
@@ -4217,7 +4217,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:cpb_textProgress
+          @attr name com.malibu_sport.malibu_QR_reader:cpb_textProgress
         */
         public static final int CircularProgressButton_cpb_textProgress = 6;
         /** Attributes that can be used with a CollapsingAppBarLayout_LayoutParams.
@@ -4226,8 +4226,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode ua.opu.itsea.malibu:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier ua.opu.itsea.malibu:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode com.malibu_sport.malibu_QR_reader:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier com.malibu_sport.malibu_QR_reader:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingAppBarLayout_LayoutParams_layout_collapseMode
            @see #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier
@@ -4236,7 +4236,7 @@ containing a value of this type.
             0x7f010041, 0x7f010042
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
 
 
@@ -4250,11 +4250,11 @@ containing a value of this type.
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:layout_collapseMode
+          @attr name com.malibu_sport.malibu_QR_reader:layout_collapseMode
         */
         public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
 
 
@@ -4264,7 +4264,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:layout_collapseParallaxMultiplier
+          @attr name com.malibu_sport.malibu_QR_reader:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -4273,16 +4273,16 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance ua.opu.itsea.malibu:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim ua.opu.itsea.malibu:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin ua.opu.itsea.malibu:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom ua.opu.itsea.malibu:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd ua.opu.itsea.malibu:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart ua.opu.itsea.malibu:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop ua.opu.itsea.malibu:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance ua.opu.itsea.malibu:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim ua.opu.itsea.malibu:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId ua.opu.itsea.malibu:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.malibu_sport.malibu_QR_reader:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.malibu_sport.malibu_QR_reader:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.malibu_sport.malibu_QR_reader:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.malibu_sport.malibu_QR_reader:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.malibu_sport.malibu_QR_reader:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.malibu_sport.malibu_QR_reader:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.malibu_sport.malibu_QR_reader:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.malibu_sport.malibu_QR_reader:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.malibu_sport.malibu_QR_reader:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.malibu_sport.malibu_QR_reader:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
            @see #CollapsingToolbarLayout_contentScrim
@@ -4301,17 +4301,17 @@ containing a value of this type.
             0x7f01004b, 0x7f01004c
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:collapsedTitleTextAppearance
+          @attr name com.malibu_sport.malibu_QR_reader:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4322,11 +4322,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentScrim
+          @attr name com.malibu_sport.malibu_QR_reader:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4338,11 +4338,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:expandedTitleMargin
+          @attr name com.malibu_sport.malibu_QR_reader:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4354,11 +4354,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:expandedTitleMarginBottom
+          @attr name com.malibu_sport.malibu_QR_reader:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4370,11 +4370,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:expandedTitleMarginEnd
+          @attr name com.malibu_sport.malibu_QR_reader:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4386,11 +4386,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:expandedTitleMarginStart
+          @attr name com.malibu_sport.malibu_QR_reader:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4402,21 +4402,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:expandedTitleMarginTop
+          @attr name com.malibu_sport.malibu_QR_reader:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:expandedTitleTextAppearance
+          @attr name com.malibu_sport.malibu_QR_reader:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4427,17 +4427,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:statusBarScrim
+          @attr name com.malibu_sport.malibu_QR_reader:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:toolbarId
+          @attr name com.malibu_sport.malibu_QR_reader:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 9;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -4446,8 +4446,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines ua.opu.itsea.malibu:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground ua.opu.itsea.malibu:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.malibu_sport.malibu_QR_reader:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.malibu_sport.malibu_QR_reader:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -4456,23 +4456,23 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01004d, 0x7f01004e
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:keylines
+          @attr name com.malibu_sport.malibu_QR_reader:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:statusBarBackground
+          @attr name com.malibu_sport.malibu_QR_reader:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_LayoutParams.
@@ -4482,10 +4482,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_LayoutParams_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor ua.opu.itsea.malibu:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity ua.opu.itsea.malibu:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior ua.opu.itsea.malibu:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline ua.opu.itsea.malibu:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor com.malibu_sport.malibu_QR_reader:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity com.malibu_sport.malibu_QR_reader:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior com.malibu_sport.malibu_QR_reader:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline com.malibu_sport.malibu_QR_reader:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_LayoutParams_android_layout_gravity
            @see #CoordinatorLayout_LayoutParams_layout_anchor
@@ -4504,17 +4504,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_LayoutParams_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:layout_anchor
+          @attr name com.malibu_sport.malibu_QR_reader:layout_anchor
         */
         public static final int CoordinatorLayout_LayoutParams_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -4539,11 +4539,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:layout_anchorGravity
+          @attr name com.malibu_sport.malibu_QR_reader:layout_anchorGravity
         */
         public static final int CoordinatorLayout_LayoutParams_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -4553,11 +4553,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:layout_behavior
+          @attr name com.malibu_sport.malibu_QR_reader:layout_behavior
         */
         public static final int CoordinatorLayout_LayoutParams_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -4567,7 +4567,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:layout_keyline
+          @attr name com.malibu_sport.malibu_QR_reader:layout_keyline
         */
         public static final int CoordinatorLayout_LayoutParams_layout_keyline = 3;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -4576,14 +4576,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barSize ua.opu.itsea.malibu:barSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color ua.opu.itsea.malibu:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize ua.opu.itsea.malibu:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars ua.opu.itsea.malibu:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize ua.opu.itsea.malibu:middleBarArrowSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars ua.opu.itsea.malibu:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness ua.opu.itsea.malibu:thickness}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize ua.opu.itsea.malibu:topBottomBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barSize com.malibu_sport.malibu_QR_reader:barSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.malibu_sport.malibu_QR_reader:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.malibu_sport.malibu_QR_reader:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.malibu_sport.malibu_QR_reader:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.malibu_sport.malibu_QR_reader:middleBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.malibu_sport.malibu_QR_reader:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.malibu_sport.malibu_QR_reader:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.malibu_sport.malibu_QR_reader:topBottomBarArrowSize}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_barSize
            @see #DrawerArrowToggle_color
@@ -4599,7 +4599,7 @@ containing a value of this type.
             0x7f010057, 0x7f010058, 0x7f010059, 0x7f01005a
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#barSize}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#barSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4611,11 +4611,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:barSize
+          @attr name com.malibu_sport.malibu_QR_reader:barSize
         */
         public static final int DrawerArrowToggle_barSize = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#color}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4626,11 +4626,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:color
+          @attr name com.malibu_sport.malibu_QR_reader:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4642,11 +4642,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:drawableSize
+          @attr name com.malibu_sport.malibu_QR_reader:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4658,11 +4658,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:gapBetweenBars
+          @attr name com.malibu_sport.malibu_QR_reader:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#middleBarArrowSize}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#middleBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4674,11 +4674,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:middleBarArrowSize
+          @attr name com.malibu_sport.malibu_QR_reader:middleBarArrowSize
         */
         public static final int DrawerArrowToggle_middleBarArrowSize = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4688,11 +4688,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:spinBars
+          @attr name com.malibu_sport.malibu_QR_reader:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4704,11 +4704,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:thickness
+          @attr name com.malibu_sport.malibu_QR_reader:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#topBottomBarArrowSize}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#topBottomBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4720,7 +4720,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:topBottomBarArrowSize
+          @attr name com.malibu_sport.malibu_QR_reader:topBottomBarArrowSize
         */
         public static final int DrawerArrowToggle_topBottomBarArrowSize = 4;
         /** Attributes that can be used with a FloatingActionButton.
@@ -4730,20 +4730,20 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #FloatingActionButton_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint ua.opu.itsea.malibu:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode ua.opu.itsea.malibu:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth ua.opu.itsea.malibu:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation ua.opu.itsea.malibu:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize ua.opu.itsea.malibu:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_colorDisabled ua.opu.itsea.malibu:fab_colorDisabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_colorNormal ua.opu.itsea.malibu:fab_colorNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_colorPressed ua.opu.itsea.malibu:fab_colorPressed}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_icon ua.opu.itsea.malibu:fab_icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_size ua.opu.itsea.malibu:fab_size}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_stroke_visible ua.opu.itsea.malibu:fab_stroke_visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fab_title ua.opu.itsea.malibu:fab_title}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ ua.opu.itsea.malibu:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor ua.opu.itsea.malibu:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.malibu_sport.malibu_QR_reader:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.malibu_sport.malibu_QR_reader:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.malibu_sport.malibu_QR_reader:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.malibu_sport.malibu_QR_reader:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.malibu_sport.malibu_QR_reader:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_colorDisabled com.malibu_sport.malibu_QR_reader:fab_colorDisabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_colorNormal com.malibu_sport.malibu_QR_reader:fab_colorNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_colorPressed com.malibu_sport.malibu_QR_reader:fab_colorPressed}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_icon com.malibu_sport.malibu_QR_reader:fab_icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_size com.malibu_sport.malibu_QR_reader:fab_size}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_stroke_visible com.malibu_sport.malibu_QR_reader:fab_stroke_visible}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fab_title com.malibu_sport.malibu_QR_reader:fab_title}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.malibu_sport.malibu_QR_reader:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.malibu_sport.malibu_QR_reader:rippleColor}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_android_background
            @see #FloatingActionButton_backgroundTint
@@ -4774,7 +4774,7 @@ containing a value of this type.
         */
         public static final int FloatingActionButton_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4785,11 +4785,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:backgroundTint
+          @attr name com.malibu_sport.malibu_QR_reader:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 13;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4805,11 +4805,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:backgroundTintMode
+          @attr name com.malibu_sport.malibu_QR_reader:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 14;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4821,11 +4821,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:borderWidth
+          @attr name com.malibu_sport.malibu_QR_reader:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 12;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4837,11 +4837,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:elevation
+          @attr name com.malibu_sport.malibu_QR_reader:elevation
         */
         public static final int FloatingActionButton_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4854,11 +4854,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:fabSize
+          @attr name com.malibu_sport.malibu_QR_reader:fabSize
         */
         public static final int FloatingActionButton_fabSize = 10;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_colorDisabled}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_colorDisabled}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4869,11 +4869,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:fab_colorDisabled
+          @attr name com.malibu_sport.malibu_QR_reader:fab_colorDisabled
         */
         public static final int FloatingActionButton_fab_colorDisabled = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_colorNormal}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_colorNormal}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4884,11 +4884,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:fab_colorNormal
+          @attr name com.malibu_sport.malibu_QR_reader:fab_colorNormal
         */
         public static final int FloatingActionButton_fab_colorNormal = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_colorPressed}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_colorPressed}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4899,21 +4899,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:fab_colorPressed
+          @attr name com.malibu_sport.malibu_QR_reader:fab_colorPressed
         */
         public static final int FloatingActionButton_fab_colorPressed = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_icon}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_icon}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:fab_icon
+          @attr name com.malibu_sport.malibu_QR_reader:fab_icon
         */
         public static final int FloatingActionButton_fab_icon = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_size}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_size}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4926,11 +4926,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:fab_size
+          @attr name com.malibu_sport.malibu_QR_reader:fab_size
         */
         public static final int FloatingActionButton_fab_size = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_stroke_visible}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_stroke_visible}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4940,11 +4940,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:fab_stroke_visible
+          @attr name com.malibu_sport.malibu_QR_reader:fab_stroke_visible
         */
         public static final int FloatingActionButton_fab_stroke_visible = 8;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_title}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_title}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4954,11 +4954,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:fab_title
+          @attr name com.malibu_sport.malibu_QR_reader:fab_title
         */
         public static final int FloatingActionButton_fab_title = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4970,11 +4970,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:pressedTranslationZ
+          @attr name com.malibu_sport.malibu_QR_reader:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 11;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4985,7 +4985,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:rippleColor
+          @attr name com.malibu_sport.malibu_QR_reader:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 9;
         /** Attributes that can be used with a FloatingActionsMenu.
@@ -4994,14 +4994,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonColorNormal ua.opu.itsea.malibu:fab_addButtonColorNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonColorPressed ua.opu.itsea.malibu:fab_addButtonColorPressed}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonPlusIconColor ua.opu.itsea.malibu:fab_addButtonPlusIconColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonSize ua.opu.itsea.malibu:fab_addButtonSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonStrokeVisible ua.opu.itsea.malibu:fab_addButtonStrokeVisible}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_expandDirection ua.opu.itsea.malibu:fab_expandDirection}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_labelStyle ua.opu.itsea.malibu:fab_labelStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionsMenu_fab_labelsPosition ua.opu.itsea.malibu:fab_labelsPosition}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonColorNormal com.malibu_sport.malibu_QR_reader:fab_addButtonColorNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonColorPressed com.malibu_sport.malibu_QR_reader:fab_addButtonColorPressed}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonPlusIconColor com.malibu_sport.malibu_QR_reader:fab_addButtonPlusIconColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonSize com.malibu_sport.malibu_QR_reader:fab_addButtonSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_addButtonStrokeVisible com.malibu_sport.malibu_QR_reader:fab_addButtonStrokeVisible}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_expandDirection com.malibu_sport.malibu_QR_reader:fab_expandDirection}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_labelStyle com.malibu_sport.malibu_QR_reader:fab_labelStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionsMenu_fab_labelsPosition com.malibu_sport.malibu_QR_reader:fab_labelsPosition}</code></td><td></td></tr>
            </table>
            @see #FloatingActionsMenu_fab_addButtonColorNormal
            @see #FloatingActionsMenu_fab_addButtonColorPressed
@@ -5017,7 +5017,7 @@ containing a value of this type.
             0x7f01006a, 0x7f01006b, 0x7f01006c, 0x7f01006d
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_addButtonColorNormal}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_addButtonColorNormal}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5028,11 +5028,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:fab_addButtonColorNormal
+          @attr name com.malibu_sport.malibu_QR_reader:fab_addButtonColorNormal
         */
         public static final int FloatingActionsMenu_fab_addButtonColorNormal = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_addButtonColorPressed}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_addButtonColorPressed}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5043,11 +5043,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:fab_addButtonColorPressed
+          @attr name com.malibu_sport.malibu_QR_reader:fab_addButtonColorPressed
         */
         public static final int FloatingActionsMenu_fab_addButtonColorPressed = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_addButtonPlusIconColor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_addButtonPlusIconColor}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5058,11 +5058,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:fab_addButtonPlusIconColor
+          @attr name com.malibu_sport.malibu_QR_reader:fab_addButtonPlusIconColor
         */
         public static final int FloatingActionsMenu_fab_addButtonPlusIconColor = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_addButtonSize}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_addButtonSize}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5075,11 +5075,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:fab_addButtonSize
+          @attr name com.malibu_sport.malibu_QR_reader:fab_addButtonSize
         */
         public static final int FloatingActionsMenu_fab_addButtonSize = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_addButtonStrokeVisible}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_addButtonStrokeVisible}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5089,11 +5089,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:fab_addButtonStrokeVisible
+          @attr name com.malibu_sport.malibu_QR_reader:fab_addButtonStrokeVisible
         */
         public static final int FloatingActionsMenu_fab_addButtonStrokeVisible = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_expandDirection}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_expandDirection}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5108,21 +5108,21 @@ containing a value of this type.
 <tr><td><code>left</code></td><td>2</td><td></td></tr>
 <tr><td><code>right</code></td><td>3</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:fab_expandDirection
+          @attr name com.malibu_sport.malibu_QR_reader:fab_expandDirection
         */
         public static final int FloatingActionsMenu_fab_expandDirection = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_labelStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_labelStyle}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:fab_labelStyle
+          @attr name com.malibu_sport.malibu_QR_reader:fab_labelStyle
         */
         public static final int FloatingActionsMenu_fab_labelStyle = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#fab_labelsPosition}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#fab_labelsPosition}
           attribute's value can be found in the {@link #FloatingActionsMenu} array.
 
 
@@ -5135,7 +5135,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>left</code></td><td>0</td><td></td></tr>
 <tr><td><code>right</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:fab_labelsPosition
+          @attr name com.malibu_sport.malibu_QR_reader:fab_labelsPosition
         */
         public static final int FloatingActionsMenu_fab_labelsPosition = 6;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -5149,10 +5149,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider ua.opu.itsea.malibu:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding ua.opu.itsea.malibu:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild ua.opu.itsea.malibu:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers ua.opu.itsea.malibu:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.malibu_sport.malibu_QR_reader:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.malibu_sport.malibu_QR_reader:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.malibu_sport.malibu_QR_reader:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.malibu_sport.malibu_QR_reader:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -5200,17 +5200,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:divider
+          @attr name com.malibu_sport.malibu_QR_reader:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -5222,11 +5222,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:dividerPadding
+          @attr name com.malibu_sport.malibu_QR_reader:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -5236,11 +5236,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:measureWithLargestChild
+          @attr name com.malibu_sport.malibu_QR_reader:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -5255,7 +5255,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:showDividers
+          @attr name com.malibu_sport.malibu_QR_reader:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -5394,9 +5394,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout ua.opu.itsea.malibu:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass ua.opu.itsea.malibu:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass ua.opu.itsea.malibu:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.malibu_sport.malibu_QR_reader:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.malibu_sport.malibu_QR_reader:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.malibu_sport.malibu_QR_reader:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -5410,7 +5410,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction ua.opu.itsea.malibu:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.malibu_sport.malibu_QR_reader:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -5438,17 +5438,17 @@ containing a value of this type.
             0x7f010074
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionLayout
+          @attr name com.malibu_sport.malibu_QR_reader:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -5458,11 +5458,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:actionProviderClass
+          @attr name com.malibu_sport.malibu_QR_reader:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -5472,7 +5472,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:actionViewClass
+          @attr name com.malibu_sport.malibu_QR_reader:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -5554,7 +5554,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -5570,7 +5570,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:showAsAction
+          @attr name com.malibu_sport.malibu_QR_reader:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -5586,7 +5586,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing ua.opu.itsea.malibu:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.malibu_sport.malibu_QR_reader:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -5644,7 +5644,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -5654,7 +5654,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:preserveIconSpacing
+          @attr name com.malibu_sport.malibu_QR_reader:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a NavigationView.
@@ -5666,12 +5666,12 @@ containing a value of this type.
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation ua.opu.itsea.malibu:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout ua.opu.itsea.malibu:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground ua.opu.itsea.malibu:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint ua.opu.itsea.malibu:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor ua.opu.itsea.malibu:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu ua.opu.itsea.malibu:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.malibu_sport.malibu_QR_reader:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.malibu_sport.malibu_QR_reader:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.malibu_sport.malibu_QR_reader:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.malibu_sport.malibu_QR_reader:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.malibu_sport.malibu_QR_reader:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.malibu_sport.malibu_QR_reader:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -5707,7 +5707,7 @@ containing a value of this type.
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -5719,31 +5719,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:elevation
+          @attr name com.malibu_sport.malibu_QR_reader:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:headerLayout
+          @attr name com.malibu_sport.malibu_QR_reader:headerLayout
         */
         public static final int NavigationView_headerLayout = 8;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:itemBackground
+          @attr name com.malibu_sport.malibu_QR_reader:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -5754,11 +5754,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:itemIconTint
+          @attr name com.malibu_sport.malibu_QR_reader:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -5769,17 +5769,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:itemTextColor
+          @attr name com.malibu_sport.malibu_QR_reader:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:menu
+          @attr name com.malibu_sport.malibu_QR_reader:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -5789,7 +5789,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor ua.opu.itsea.malibu:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.malibu_sport.malibu_QR_reader:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -5804,7 +5804,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -5814,7 +5814,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:overlapAnchor
+          @attr name com.malibu_sport.malibu_QR_reader:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -5823,7 +5823,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor ua.opu.itsea.malibu:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.malibu_sport.malibu_QR_reader:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -5831,7 +5831,7 @@ containing a value of this type.
             0x7f01007c
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -5841,7 +5841,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:state_above_anchor
+          @attr name com.malibu_sport.malibu_QR_reader:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -5850,7 +5850,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground ua.opu.itsea.malibu:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.malibu_sport.malibu_QR_reader:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -5858,7 +5858,7 @@ containing a value of this type.
             0x7f01007d
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -5866,7 +5866,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ua.opu.itsea.malibu:insetForeground
+          @attr name com.malibu_sport.malibu_QR_reader:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Params.
@@ -5875,7 +5875,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop ua.opu.itsea.malibu:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop com.malibu_sport.malibu_QR_reader:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Params_behavior_overlapTop
          */
@@ -5883,7 +5883,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01007e
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Params} array.
 
 
@@ -5895,7 +5895,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:behavior_overlapTop
+          @attr name com.malibu_sport.malibu_QR_reader:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Params_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -5908,19 +5908,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon ua.opu.itsea.malibu:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon ua.opu.itsea.malibu:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint ua.opu.itsea.malibu:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon ua.opu.itsea.malibu:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault ua.opu.itsea.malibu:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout ua.opu.itsea.malibu:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground ua.opu.itsea.malibu:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint ua.opu.itsea.malibu:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon ua.opu.itsea.malibu:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon ua.opu.itsea.malibu:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground ua.opu.itsea.malibu:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout ua.opu.itsea.malibu:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon ua.opu.itsea.malibu:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.malibu_sport.malibu_QR_reader:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.malibu_sport.malibu_QR_reader:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.malibu_sport.malibu_QR_reader:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.malibu_sport.malibu_QR_reader:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.malibu_sport.malibu_QR_reader:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.malibu_sport.malibu_QR_reader:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.malibu_sport.malibu_QR_reader:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.malibu_sport.malibu_QR_reader:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.malibu_sport.malibu_QR_reader:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.malibu_sport.malibu_QR_reader:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.malibu_sport.malibu_QR_reader:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.malibu_sport.malibu_QR_reader:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.malibu_sport.malibu_QR_reader:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -5972,27 +5972,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:closeIcon
+          @attr name com.malibu_sport.malibu_QR_reader:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:commitIcon
+          @attr name com.malibu_sport.malibu_QR_reader:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -6002,21 +6002,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:defaultQueryHint
+          @attr name com.malibu_sport.malibu_QR_reader:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:goIcon
+          @attr name com.malibu_sport.malibu_QR_reader:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -6026,31 +6026,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:iconifiedByDefault
+          @attr name com.malibu_sport.malibu_QR_reader:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:layout
+          @attr name com.malibu_sport.malibu_QR_reader:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:queryBackground
+          @attr name com.malibu_sport.malibu_QR_reader:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -6060,57 +6060,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:queryHint
+          @attr name com.malibu_sport.malibu_QR_reader:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:searchHintIcon
+          @attr name com.malibu_sport.malibu_QR_reader:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:searchIcon
+          @attr name com.malibu_sport.malibu_QR_reader:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:submitBackground
+          @attr name com.malibu_sport.malibu_QR_reader:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:suggestionRowLayout
+          @attr name com.malibu_sport.malibu_QR_reader:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:voiceIcon
+          @attr name com.malibu_sport.malibu_QR_reader:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -6120,8 +6120,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation ua.opu.itsea.malibu:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth ua.opu.itsea.malibu:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.malibu_sport.malibu_QR_reader:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.malibu_sport.malibu_QR_reader:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -6137,7 +6137,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -6149,11 +6149,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:elevation
+          @attr name com.malibu_sport.malibu_QR_reader:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -6165,7 +6165,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:maxActionInlineWidth
+          @attr name com.malibu_sport.malibu_QR_reader:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -6181,10 +6181,10 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled ua.opu.itsea.malibu:disableChildrenWhenDisabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupPromptView ua.opu.itsea.malibu:popupPromptView}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_prompt ua.opu.itsea.malibu:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spinnerMode ua.opu.itsea.malibu:spinnerMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.malibu_sport.malibu_QR_reader:disableChildrenWhenDisabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupPromptView com.malibu_sport.malibu_QR_reader:popupPromptView}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_prompt com.malibu_sport.malibu_QR_reader:prompt}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spinnerMode com.malibu_sport.malibu_QR_reader:spinnerMode}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_background
            @see #Spinner_android_dropDownHorizontalOffset
@@ -6246,7 +6246,7 @@ containing a value of this type.
         */
         public static final int Spinner_android_popupBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#disableChildrenWhenDisabled}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#disableChildrenWhenDisabled}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -6256,31 +6256,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:disableChildrenWhenDisabled
+          @attr name com.malibu_sport.malibu_QR_reader:disableChildrenWhenDisabled
         */
         public static final int Spinner_disableChildrenWhenDisabled = 10;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#popupPromptView}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#popupPromptView}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:popupPromptView
+          @attr name com.malibu_sport.malibu_QR_reader:popupPromptView
         */
         public static final int Spinner_popupPromptView = 9;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#prompt}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#prompt}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:prompt
+          @attr name com.malibu_sport.malibu_QR_reader:prompt
         */
         public static final int Spinner_prompt = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#spinnerMode}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#spinnerMode}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -6293,7 +6293,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>dialog</code></td><td>0</td><td></td></tr>
 <tr><td><code>dropdown</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:spinnerMode
+          @attr name com.malibu_sport.malibu_QR_reader:spinnerMode
         */
         public static final int Spinner_spinnerMode = 8;
         /** Attributes that can be used with a SwitchCompat.
@@ -6305,13 +6305,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText ua.opu.itsea.malibu:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack ua.opu.itsea.malibu:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth ua.opu.itsea.malibu:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding ua.opu.itsea.malibu:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance ua.opu.itsea.malibu:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding ua.opu.itsea.malibu:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track ua.opu.itsea.malibu:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.malibu_sport.malibu_QR_reader:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.malibu_sport.malibu_QR_reader:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.malibu_sport.malibu_QR_reader:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.malibu_sport.malibu_QR_reader:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.malibu_sport.malibu_QR_reader:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.malibu_sport.malibu_QR_reader:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.malibu_sport.malibu_QR_reader:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -6348,7 +6348,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6358,11 +6358,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:showText
+          @attr name com.malibu_sport.malibu_QR_reader:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6372,11 +6372,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:splitTrack
+          @attr name com.malibu_sport.malibu_QR_reader:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6388,11 +6388,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:switchMinWidth
+          @attr name com.malibu_sport.malibu_QR_reader:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6404,21 +6404,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:switchPadding
+          @attr name com.malibu_sport.malibu_QR_reader:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:switchTextAppearance
+          @attr name com.malibu_sport.malibu_QR_reader:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6430,17 +6430,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:thumbTextPadding
+          @attr name com.malibu_sport.malibu_QR_reader:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#track}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:track
+          @attr name com.malibu_sport.malibu_QR_reader:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TabLayout.
@@ -6449,22 +6449,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground ua.opu.itsea.malibu:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart ua.opu.itsea.malibu:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity ua.opu.itsea.malibu:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor ua.opu.itsea.malibu:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight ua.opu.itsea.malibu:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth ua.opu.itsea.malibu:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth ua.opu.itsea.malibu:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode ua.opu.itsea.malibu:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding ua.opu.itsea.malibu:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom ua.opu.itsea.malibu:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd ua.opu.itsea.malibu:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart ua.opu.itsea.malibu:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop ua.opu.itsea.malibu:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor ua.opu.itsea.malibu:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance ua.opu.itsea.malibu:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor ua.opu.itsea.malibu:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.malibu_sport.malibu_QR_reader:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.malibu_sport.malibu_QR_reader:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.malibu_sport.malibu_QR_reader:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.malibu_sport.malibu_QR_reader:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.malibu_sport.malibu_QR_reader:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.malibu_sport.malibu_QR_reader:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.malibu_sport.malibu_QR_reader:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.malibu_sport.malibu_QR_reader:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.malibu_sport.malibu_QR_reader:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.malibu_sport.malibu_QR_reader:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.malibu_sport.malibu_QR_reader:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.malibu_sport.malibu_QR_reader:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.malibu_sport.malibu_QR_reader:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.malibu_sport.malibu_QR_reader:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.malibu_sport.malibu_QR_reader:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.malibu_sport.malibu_QR_reader:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -6490,17 +6490,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100a4, 0x7f0100a5, 0x7f0100a6, 0x7f0100a7
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:tabBackground
+          @attr name com.malibu_sport.malibu_QR_reader:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6512,11 +6512,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:tabContentStart
+          @attr name com.malibu_sport.malibu_QR_reader:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6529,11 +6529,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:tabGravity
+          @attr name com.malibu_sport.malibu_QR_reader:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6544,11 +6544,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:tabIndicatorColor
+          @attr name com.malibu_sport.malibu_QR_reader:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6560,11 +6560,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:tabIndicatorHeight
+          @attr name com.malibu_sport.malibu_QR_reader:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6576,11 +6576,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:tabMaxWidth
+          @attr name com.malibu_sport.malibu_QR_reader:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6592,11 +6592,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:tabMinWidth
+          @attr name com.malibu_sport.malibu_QR_reader:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6609,11 +6609,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:tabMode
+          @attr name com.malibu_sport.malibu_QR_reader:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6625,11 +6625,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:tabPadding
+          @attr name com.malibu_sport.malibu_QR_reader:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6641,11 +6641,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:tabPaddingBottom
+          @attr name com.malibu_sport.malibu_QR_reader:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6657,11 +6657,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:tabPaddingEnd
+          @attr name com.malibu_sport.malibu_QR_reader:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6673,11 +6673,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:tabPaddingStart
+          @attr name com.malibu_sport.malibu_QR_reader:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6689,11 +6689,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:tabPaddingTop
+          @attr name com.malibu_sport.malibu_QR_reader:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6704,21 +6704,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:tabSelectedTextColor
+          @attr name com.malibu_sport.malibu_QR_reader:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:tabTextAppearance
+          @attr name com.malibu_sport.malibu_QR_reader:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6729,7 +6729,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:tabTextColor
+          @attr name com.malibu_sport.malibu_QR_reader:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -6742,7 +6742,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps ua.opu.itsea.malibu:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.malibu_sport.malibu_QR_reader:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_textColor
            @see #TextAppearance_android_textSize
@@ -6779,14 +6779,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name ua.opu.itsea.malibu:textAllCaps
+          @attr name com.malibu_sport.malibu_QR_reader:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 4;
         /** Attributes that can be used with a TextInputLayout.
@@ -6796,9 +6796,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled ua.opu.itsea.malibu:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance ua.opu.itsea.malibu:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance ua.opu.itsea.malibu:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.malibu_sport.malibu_QR_reader:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.malibu_sport.malibu_QR_reader:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.malibu_sport.malibu_QR_reader:hintTextAppearance}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_errorEnabled
@@ -6815,7 +6815,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_hint = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -6825,27 +6825,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:errorEnabled
+          @attr name com.malibu_sport.malibu_QR_reader:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:errorTextAppearance
+          @attr name com.malibu_sport.malibu_QR_reader:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:hintTextAppearance
+          @attr name com.malibu_sport.malibu_QR_reader:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 1;
         /** Attributes that can be used with a Theme.
@@ -6854,113 +6854,113 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider ua.opu.itsea.malibu:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground ua.opu.itsea.malibu:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme ua.opu.itsea.malibu:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize ua.opu.itsea.malibu:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle ua.opu.itsea.malibu:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle ua.opu.itsea.malibu:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle ua.opu.itsea.malibu:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle ua.opu.itsea.malibu:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle ua.opu.itsea.malibu:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme ua.opu.itsea.malibu:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme ua.opu.itsea.malibu:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle ua.opu.itsea.malibu:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle ua.opu.itsea.malibu:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance ua.opu.itsea.malibu:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor ua.opu.itsea.malibu:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground ua.opu.itsea.malibu:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle ua.opu.itsea.malibu:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable ua.opu.itsea.malibu:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable ua.opu.itsea.malibu:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable ua.opu.itsea.malibu:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable ua.opu.itsea.malibu:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable ua.opu.itsea.malibu:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle ua.opu.itsea.malibu:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable ua.opu.itsea.malibu:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable ua.opu.itsea.malibu:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground ua.opu.itsea.malibu:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle ua.opu.itsea.malibu:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable ua.opu.itsea.malibu:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle ua.opu.itsea.malibu:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle ua.opu.itsea.malibu:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle ua.opu.itsea.malibu:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle ua.opu.itsea.malibu:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons ua.opu.itsea.malibu:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle ua.opu.itsea.malibu:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme ua.opu.itsea.malibu:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider com.malibu_sport.malibu_QR_reader:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground com.malibu_sport.malibu_QR_reader:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme com.malibu_sport.malibu_QR_reader:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize com.malibu_sport.malibu_QR_reader:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle com.malibu_sport.malibu_QR_reader:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle com.malibu_sport.malibu_QR_reader:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.malibu_sport.malibu_QR_reader:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle com.malibu_sport.malibu_QR_reader:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.malibu_sport.malibu_QR_reader:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme com.malibu_sport.malibu_QR_reader:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.malibu_sport.malibu_QR_reader:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle com.malibu_sport.malibu_QR_reader:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle com.malibu_sport.malibu_QR_reader:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.malibu_sport.malibu_QR_reader:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor com.malibu_sport.malibu_QR_reader:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground com.malibu_sport.malibu_QR_reader:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.malibu_sport.malibu_QR_reader:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.malibu_sport.malibu_QR_reader:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.malibu_sport.malibu_QR_reader:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable com.malibu_sport.malibu_QR_reader:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable com.malibu_sport.malibu_QR_reader:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable com.malibu_sport.malibu_QR_reader:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.malibu_sport.malibu_QR_reader:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.malibu_sport.malibu_QR_reader:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable com.malibu_sport.malibu_QR_reader:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground com.malibu_sport.malibu_QR_reader:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle com.malibu_sport.malibu_QR_reader:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.malibu_sport.malibu_QR_reader:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.malibu_sport.malibu_QR_reader:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.malibu_sport.malibu_QR_reader:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle com.malibu_sport.malibu_QR_reader:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.malibu_sport.malibu_QR_reader:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.malibu_sport.malibu_QR_reader:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle com.malibu_sport.malibu_QR_reader:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme com.malibu_sport.malibu_QR_reader:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle ua.opu.itsea.malibu:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle ua.opu.itsea.malibu:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle ua.opu.itsea.malibu:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle ua.opu.itsea.malibu:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle ua.opu.itsea.malibu:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle ua.opu.itsea.malibu:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle ua.opu.itsea.malibu:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle ua.opu.itsea.malibu:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall ua.opu.itsea.malibu:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle ua.opu.itsea.malibu:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle ua.opu.itsea.malibu:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent ua.opu.itsea.malibu:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal ua.opu.itsea.malibu:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated ua.opu.itsea.malibu:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight ua.opu.itsea.malibu:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal ua.opu.itsea.malibu:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary ua.opu.itsea.malibu:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark ua.opu.itsea.malibu:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal ua.opu.itsea.malibu:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding ua.opu.itsea.malibu:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme ua.opu.itsea.malibu:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal ua.opu.itsea.malibu:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical ua.opu.itsea.malibu:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle ua.opu.itsea.malibu:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight ua.opu.itsea.malibu:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground ua.opu.itsea.malibu:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor ua.opu.itsea.malibu:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle ua.opu.itsea.malibu:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator ua.opu.itsea.malibu:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator ua.opu.itsea.malibu:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog ua.opu.itsea.malibu:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle ua.opu.itsea.malibu:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight ua.opu.itsea.malibu:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge ua.opu.itsea.malibu:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall ua.opu.itsea.malibu:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft ua.opu.itsea.malibu:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight ua.opu.itsea.malibu:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground ua.opu.itsea.malibu:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme ua.opu.itsea.malibu:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth ua.opu.itsea.malibu:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle ua.opu.itsea.malibu:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle ua.opu.itsea.malibu:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle ua.opu.itsea.malibu:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle ua.opu.itsea.malibu:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle ua.opu.itsea.malibu:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground ua.opu.itsea.malibu:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless ua.opu.itsea.malibu:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle ua.opu.itsea.malibu:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle ua.opu.itsea.malibu:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle ua.opu.itsea.malibu:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu ua.opu.itsea.malibu:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem ua.opu.itsea.malibu:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall ua.opu.itsea.malibu:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle ua.opu.itsea.malibu:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle ua.opu.itsea.malibu:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu ua.opu.itsea.malibu:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem ua.opu.itsea.malibu:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl ua.opu.itsea.malibu:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle ua.opu.itsea.malibu:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle ua.opu.itsea.malibu:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar ua.opu.itsea.malibu:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay ua.opu.itsea.malibu:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay ua.opu.itsea.malibu:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor ua.opu.itsea.malibu:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor ua.opu.itsea.malibu:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor ua.opu.itsea.malibu:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor ua.opu.itsea.malibu:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor ua.opu.itsea.malibu:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor ua.opu.itsea.malibu:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle ua.opu.itsea.malibu:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.malibu_sport.malibu_QR_reader:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle com.malibu_sport.malibu_QR_reader:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.malibu_sport.malibu_QR_reader:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.malibu_sport.malibu_QR_reader:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.malibu_sport.malibu_QR_reader:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.malibu_sport.malibu_QR_reader:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle com.malibu_sport.malibu_QR_reader:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle com.malibu_sport.malibu_QR_reader:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall com.malibu_sport.malibu_QR_reader:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle com.malibu_sport.malibu_QR_reader:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle com.malibu_sport.malibu_QR_reader:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent com.malibu_sport.malibu_QR_reader:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal com.malibu_sport.malibu_QR_reader:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated com.malibu_sport.malibu_QR_reader:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight com.malibu_sport.malibu_QR_reader:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal com.malibu_sport.malibu_QR_reader:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary com.malibu_sport.malibu_QR_reader:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark com.malibu_sport.malibu_QR_reader:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.malibu_sport.malibu_QR_reader:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding com.malibu_sport.malibu_QR_reader:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme com.malibu_sport.malibu_QR_reader:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal com.malibu_sport.malibu_QR_reader:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical com.malibu_sport.malibu_QR_reader:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle com.malibu_sport.malibu_QR_reader:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.malibu_sport.malibu_QR_reader:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground com.malibu_sport.malibu_QR_reader:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor com.malibu_sport.malibu_QR_reader:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle com.malibu_sport.malibu_QR_reader:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator com.malibu_sport.malibu_QR_reader:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.malibu_sport.malibu_QR_reader:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog com.malibu_sport.malibu_QR_reader:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle com.malibu_sport.malibu_QR_reader:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight com.malibu_sport.malibu_QR_reader:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.malibu_sport.malibu_QR_reader:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.malibu_sport.malibu_QR_reader:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.malibu_sport.malibu_QR_reader:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.malibu_sport.malibu_QR_reader:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground com.malibu_sport.malibu_QR_reader:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme com.malibu_sport.malibu_QR_reader:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth com.malibu_sport.malibu_QR_reader:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle com.malibu_sport.malibu_QR_reader:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle com.malibu_sport.malibu_QR_reader:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle com.malibu_sport.malibu_QR_reader:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle com.malibu_sport.malibu_QR_reader:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle com.malibu_sport.malibu_QR_reader:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground com.malibu_sport.malibu_QR_reader:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.malibu_sport.malibu_QR_reader:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.malibu_sport.malibu_QR_reader:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle com.malibu_sport.malibu_QR_reader:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle com.malibu_sport.malibu_QR_reader:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.malibu_sport.malibu_QR_reader:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem com.malibu_sport.malibu_QR_reader:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.malibu_sport.malibu_QR_reader:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.malibu_sport.malibu_QR_reader:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.malibu_sport.malibu_QR_reader:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.malibu_sport.malibu_QR_reader:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.malibu_sport.malibu_QR_reader:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl com.malibu_sport.malibu_QR_reader:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.malibu_sport.malibu_QR_reader:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle com.malibu_sport.malibu_QR_reader:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar com.malibu_sport.malibu_QR_reader:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay com.malibu_sport.malibu_QR_reader:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay com.malibu_sport.malibu_QR_reader:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.malibu_sport.malibu_QR_reader:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.malibu_sport.malibu_QR_reader:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.malibu_sport.malibu_QR_reader:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.malibu_sport.malibu_QR_reader:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor com.malibu_sport.malibu_QR_reader:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor com.malibu_sport.malibu_QR_reader:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle com.malibu_sport.malibu_QR_reader:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -7100,37 +7100,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010111, 0x7f010112, 0x7f010113
         };
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionBarDivider
+          @attr name com.malibu_sport.malibu_QR_reader:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionBarItemBackground
+          @attr name com.malibu_sport.malibu_QR_reader:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionBarPopupTheme
+          @attr name com.malibu_sport.malibu_QR_reader:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7150,111 +7150,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:actionBarSize
+          @attr name com.malibu_sport.malibu_QR_reader:actionBarSize
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionBarSplitStyle
+          @attr name com.malibu_sport.malibu_QR_reader:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionBarStyle
+          @attr name com.malibu_sport.malibu_QR_reader:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionBarTabBarStyle
+          @attr name com.malibu_sport.malibu_QR_reader:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionBarTabStyle
+          @attr name com.malibu_sport.malibu_QR_reader:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionBarTabTextStyle
+          @attr name com.malibu_sport.malibu_QR_reader:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionBarTheme
+          @attr name com.malibu_sport.malibu_QR_reader:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionBarWidgetTheme
+          @attr name com.malibu_sport.malibu_QR_reader:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionButtonStyle
+          @attr name com.malibu_sport.malibu_QR_reader:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionDropDownStyle
+          @attr name com.malibu_sport.malibu_QR_reader:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionMenuTextAppearance
+          @attr name com.malibu_sport.malibu_QR_reader:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7262,181 +7262,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ua.opu.itsea.malibu:actionMenuTextColor
+          @attr name com.malibu_sport.malibu_QR_reader:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModeBackground
+          @attr name com.malibu_sport.malibu_QR_reader:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModeCloseButtonStyle
+          @attr name com.malibu_sport.malibu_QR_reader:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModeCloseDrawable
+          @attr name com.malibu_sport.malibu_QR_reader:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModeCopyDrawable
+          @attr name com.malibu_sport.malibu_QR_reader:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModeCutDrawable
+          @attr name com.malibu_sport.malibu_QR_reader:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModeFindDrawable
+          @attr name com.malibu_sport.malibu_QR_reader:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModePasteDrawable
+          @attr name com.malibu_sport.malibu_QR_reader:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModePopupWindowStyle
+          @attr name com.malibu_sport.malibu_QR_reader:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModeSelectAllDrawable
+          @attr name com.malibu_sport.malibu_QR_reader:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModeShareDrawable
+          @attr name com.malibu_sport.malibu_QR_reader:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModeSplitBackground
+          @attr name com.malibu_sport.malibu_QR_reader:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModeStyle
+          @attr name com.malibu_sport.malibu_QR_reader:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionModeWebSearchDrawable
+          @attr name com.malibu_sport.malibu_QR_reader:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionOverflowButtonStyle
+          @attr name com.malibu_sport.malibu_QR_reader:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:actionOverflowMenuStyle
+          @attr name com.malibu_sport.malibu_QR_reader:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:activityChooserViewStyle
+          @attr name com.malibu_sport.malibu_QR_reader:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:alertDialogButtonGroupStyle
+          @attr name com.malibu_sport.malibu_QR_reader:alertDialogButtonGroupStyle
         */
         public static final int Theme_alertDialogButtonGroupStyle = 90;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7446,27 +7446,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:alertDialogCenterButtons
+          @attr name com.malibu_sport.malibu_QR_reader:alertDialogCenterButtons
         */
         public static final int Theme_alertDialogCenterButtons = 91;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:alertDialogStyle
+          @attr name com.malibu_sport.malibu_QR_reader:alertDialogStyle
         */
         public static final int Theme_alertDialogStyle = 89;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:alertDialogTheme
+          @attr name com.malibu_sport.malibu_QR_reader:alertDialogTheme
         */
         public static final int Theme_alertDialogTheme = 92;
         /**
@@ -7482,117 +7482,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:autoCompleteTextViewStyle
+          @attr name com.malibu_sport.malibu_QR_reader:autoCompleteTextViewStyle
         */
         public static final int Theme_autoCompleteTextViewStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:borderlessButtonStyle
+          @attr name com.malibu_sport.malibu_QR_reader:borderlessButtonStyle
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:buttonBarButtonStyle
+          @attr name com.malibu_sport.malibu_QR_reader:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:buttonBarNegativeButtonStyle
+          @attr name com.malibu_sport.malibu_QR_reader:buttonBarNegativeButtonStyle
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:buttonBarNeutralButtonStyle
+          @attr name com.malibu_sport.malibu_QR_reader:buttonBarNeutralButtonStyle
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:buttonBarPositiveButtonStyle
+          @attr name com.malibu_sport.malibu_QR_reader:buttonBarPositiveButtonStyle
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:buttonBarStyle
+          @attr name com.malibu_sport.malibu_QR_reader:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:buttonStyle
+          @attr name com.malibu_sport.malibu_QR_reader:buttonStyle
         */
         public static final int Theme_buttonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:buttonStyleSmall
+          @attr name com.malibu_sport.malibu_QR_reader:buttonStyleSmall
         */
         public static final int Theme_buttonStyleSmall = 99;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:checkboxStyle
+          @attr name com.malibu_sport.malibu_QR_reader:checkboxStyle
         */
         public static final int Theme_checkboxStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:checkedTextViewStyle
+          @attr name com.malibu_sport.malibu_QR_reader:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7603,11 +7603,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:colorAccent
+          @attr name com.malibu_sport.malibu_QR_reader:colorAccent
         */
         public static final int Theme_colorAccent = 83;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7618,11 +7618,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:colorButtonNormal
+          @attr name com.malibu_sport.malibu_QR_reader:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7633,11 +7633,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:colorControlActivated
+          @attr name com.malibu_sport.malibu_QR_reader:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 85;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7648,11 +7648,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:colorControlHighlight
+          @attr name com.malibu_sport.malibu_QR_reader:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 86;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7663,11 +7663,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:colorControlNormal
+          @attr name com.malibu_sport.malibu_QR_reader:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 84;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7678,11 +7678,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:colorPrimary
+          @attr name com.malibu_sport.malibu_QR_reader:colorPrimary
         */
         public static final int Theme_colorPrimary = 81;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7693,11 +7693,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:colorPrimaryDark
+          @attr name com.malibu_sport.malibu_QR_reader:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 82;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7708,11 +7708,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:colorSwitchThumbNormal
+          @attr name com.malibu_sport.malibu_QR_reader:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7724,51 +7724,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:dialogPreferredPadding
+          @attr name com.malibu_sport.malibu_QR_reader:dialogPreferredPadding
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:dialogTheme
+          @attr name com.malibu_sport.malibu_QR_reader:dialogTheme
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:dividerHorizontal
+          @attr name com.malibu_sport.malibu_QR_reader:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:dividerVertical
+          @attr name com.malibu_sport.malibu_QR_reader:dividerVertical
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:dropDownListViewStyle
+          @attr name com.malibu_sport.malibu_QR_reader:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 73;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7780,21 +7780,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:dropdownListPreferredItemHeight
+          @attr name com.malibu_sport.malibu_QR_reader:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:editTextBackground
+          @attr name com.malibu_sport.malibu_QR_reader:editTextBackground
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7802,61 +7802,61 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ua.opu.itsea.malibu:editTextColor
+          @attr name com.malibu_sport.malibu_QR_reader:editTextColor
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:editTextStyle
+          @attr name com.malibu_sport.malibu_QR_reader:editTextStyle
         */
         public static final int Theme_editTextStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:homeAsUpIndicator
+          @attr name com.malibu_sport.malibu_QR_reader:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:listChoiceBackgroundIndicator
+          @attr name com.malibu_sport.malibu_QR_reader:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 80;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:listDividerAlertDialog
+          @attr name com.malibu_sport.malibu_QR_reader:listDividerAlertDialog
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:listPopupWindowStyle
+          @attr name com.malibu_sport.malibu_QR_reader:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7868,11 +7868,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:listPreferredItemHeight
+          @attr name com.malibu_sport.malibu_QR_reader:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 68;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7884,11 +7884,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:listPreferredItemHeightLarge
+          @attr name com.malibu_sport.malibu_QR_reader:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 70;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7900,11 +7900,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:listPreferredItemHeightSmall
+          @attr name com.malibu_sport.malibu_QR_reader:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 69;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7916,11 +7916,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:listPreferredItemPaddingLeft
+          @attr name com.malibu_sport.malibu_QR_reader:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 71;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7932,31 +7932,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:listPreferredItemPaddingRight
+          @attr name com.malibu_sport.malibu_QR_reader:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 72;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:panelBackground
+          @attr name com.malibu_sport.malibu_QR_reader:panelBackground
         */
         public static final int Theme_panelBackground = 77;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:panelMenuListTheme
+          @attr name com.malibu_sport.malibu_QR_reader:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 79;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7968,171 +7968,171 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:panelMenuListWidth
+          @attr name com.malibu_sport.malibu_QR_reader:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 78;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:popupMenuStyle
+          @attr name com.malibu_sport.malibu_QR_reader:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:popupWindowStyle
+          @attr name com.malibu_sport.malibu_QR_reader:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:radioButtonStyle
+          @attr name com.malibu_sport.malibu_QR_reader:radioButtonStyle
         */
         public static final int Theme_radioButtonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:ratingBarStyle
+          @attr name com.malibu_sport.malibu_QR_reader:ratingBarStyle
         */
         public static final int Theme_ratingBarStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:searchViewStyle
+          @attr name com.malibu_sport.malibu_QR_reader:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 67;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:selectableItemBackground
+          @attr name com.malibu_sport.malibu_QR_reader:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:selectableItemBackgroundBorderless
+          @attr name com.malibu_sport.malibu_QR_reader:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:spinnerDropDownItemStyle
+          @attr name com.malibu_sport.malibu_QR_reader:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:spinnerStyle
+          @attr name com.malibu_sport.malibu_QR_reader:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:switchStyle
+          @attr name com.malibu_sport.malibu_QR_reader:switchStyle
         */
         public static final int Theme_switchStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:textAppearanceLargePopupMenu
+          @attr name com.malibu_sport.malibu_QR_reader:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:textAppearanceListItem
+          @attr name com.malibu_sport.malibu_QR_reader:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 75;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:textAppearanceListItemSmall
+          @attr name com.malibu_sport.malibu_QR_reader:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 76;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:textAppearanceSearchResultSubtitle
+          @attr name com.malibu_sport.malibu_QR_reader:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 65;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:textAppearanceSearchResultTitle
+          @attr name com.malibu_sport.malibu_QR_reader:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 64;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:textAppearanceSmallPopupMenu
+          @attr name com.malibu_sport.malibu_QR_reader:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8140,11 +8140,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ua.opu.itsea.malibu:textColorAlertDialogListItem
+          @attr name com.malibu_sport.malibu_QR_reader:textColorAlertDialogListItem
         */
         public static final int Theme_textColorAlertDialogListItem = 93;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8152,31 +8152,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name ua.opu.itsea.malibu:textColorSearchUrl
+          @attr name com.malibu_sport.malibu_QR_reader:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 66;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:toolbarNavigationButtonStyle
+          @attr name com.malibu_sport.malibu_QR_reader:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:toolbarStyle
+          @attr name com.malibu_sport.malibu_QR_reader:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8186,11 +8186,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:windowActionBar
+          @attr name com.malibu_sport.malibu_QR_reader:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8200,11 +8200,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:windowActionBarOverlay
+          @attr name com.malibu_sport.malibu_QR_reader:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8214,11 +8214,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:windowActionModeOverlay
+          @attr name com.malibu_sport.malibu_QR_reader:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8233,11 +8233,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:windowFixedHeightMajor
+          @attr name com.malibu_sport.malibu_QR_reader:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8252,11 +8252,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:windowFixedHeightMinor
+          @attr name com.malibu_sport.malibu_QR_reader:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8271,11 +8271,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:windowFixedWidthMajor
+          @attr name com.malibu_sport.malibu_QR_reader:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8290,11 +8290,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:windowFixedWidthMinor
+          @attr name com.malibu_sport.malibu_QR_reader:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8309,11 +8309,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:windowMinWidthMajor
+          @attr name com.malibu_sport.malibu_QR_reader:windowMinWidthMajor
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8328,11 +8328,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:windowMinWidthMinor
+          @attr name com.malibu_sport.malibu_QR_reader:windowMinWidthMinor
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8342,7 +8342,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:windowNoTitle
+          @attr name com.malibu_sport.malibu_QR_reader:windowNoTitle
         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -8353,25 +8353,25 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription ua.opu.itsea.malibu:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon ua.opu.itsea.malibu:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd ua.opu.itsea.malibu:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft ua.opu.itsea.malibu:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight ua.opu.itsea.malibu:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart ua.opu.itsea.malibu:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight ua.opu.itsea.malibu:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription ua.opu.itsea.malibu:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon ua.opu.itsea.malibu:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme ua.opu.itsea.malibu:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle ua.opu.itsea.malibu:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance ua.opu.itsea.malibu:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title ua.opu.itsea.malibu:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom ua.opu.itsea.malibu:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd ua.opu.itsea.malibu:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart ua.opu.itsea.malibu:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop ua.opu.itsea.malibu:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins ua.opu.itsea.malibu:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance ua.opu.itsea.malibu:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.malibu_sport.malibu_QR_reader:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.malibu_sport.malibu_QR_reader:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.malibu_sport.malibu_QR_reader:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.malibu_sport.malibu_QR_reader:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.malibu_sport.malibu_QR_reader:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.malibu_sport.malibu_QR_reader:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.malibu_sport.malibu_QR_reader:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.malibu_sport.malibu_QR_reader:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.malibu_sport.malibu_QR_reader:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.malibu_sport.malibu_QR_reader:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.malibu_sport.malibu_QR_reader:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.malibu_sport.malibu_QR_reader:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.malibu_sport.malibu_QR_reader:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.malibu_sport.malibu_QR_reader:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.malibu_sport.malibu_QR_reader:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.malibu_sport.malibu_QR_reader:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.malibu_sport.malibu_QR_reader:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.malibu_sport.malibu_QR_reader:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.malibu_sport.malibu_QR_reader:titleTextAppearance}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -8416,7 +8416,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8426,21 +8426,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:collapseContentDescription
+          @attr name com.malibu_sport.malibu_QR_reader:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 18;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:collapseIcon
+          @attr name com.malibu_sport.malibu_QR_reader:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 17;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8452,11 +8452,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentInsetEnd
+          @attr name com.malibu_sport.malibu_QR_reader:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8468,11 +8468,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentInsetLeft
+          @attr name com.malibu_sport.malibu_QR_reader:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8484,11 +8484,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentInsetRight
+          @attr name com.malibu_sport.malibu_QR_reader:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 7;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8500,11 +8500,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:contentInsetStart
+          @attr name com.malibu_sport.malibu_QR_reader:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 4;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8516,11 +8516,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:maxButtonHeight
+          @attr name com.malibu_sport.malibu_QR_reader:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 16;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8530,31 +8530,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:navigationContentDescription
+          @attr name com.malibu_sport.malibu_QR_reader:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 20;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:navigationIcon
+          @attr name com.malibu_sport.malibu_QR_reader:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 19;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:popupTheme
+          @attr name com.malibu_sport.malibu_QR_reader:popupTheme
         */
         public static final int Toolbar_popupTheme = 8;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8564,21 +8564,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:subtitle
+          @attr name com.malibu_sport.malibu_QR_reader:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:subtitleTextAppearance
+          @attr name com.malibu_sport.malibu_QR_reader:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#title}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8588,11 +8588,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:title
+          @attr name com.malibu_sport.malibu_QR_reader:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8604,11 +8604,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:titleMarginBottom
+          @attr name com.malibu_sport.malibu_QR_reader:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 15;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8620,11 +8620,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:titleMarginEnd
+          @attr name com.malibu_sport.malibu_QR_reader:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8636,11 +8636,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:titleMarginStart
+          @attr name com.malibu_sport.malibu_QR_reader:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 12;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8652,11 +8652,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:titleMarginTop
+          @attr name com.malibu_sport.malibu_QR_reader:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 14;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8668,17 +8668,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:titleMargins
+          @attr name com.malibu_sport.malibu_QR_reader:titleMargins
         */
         public static final int Toolbar_titleMargins = 11;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:titleTextAppearance
+          @attr name com.malibu_sport.malibu_QR_reader:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 9;
         /** Attributes that can be used with a View.
@@ -8689,11 +8689,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_backgroundTint ua.opu.itsea.malibu:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_backgroundTintMode ua.opu.itsea.malibu:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd ua.opu.itsea.malibu:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart ua.opu.itsea.malibu:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme ua.opu.itsea.malibu:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_backgroundTint com.malibu_sport.malibu_QR_reader:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_backgroundTintMode com.malibu_sport.malibu_QR_reader:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.malibu_sport.malibu_QR_reader:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.malibu_sport.malibu_QR_reader:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.malibu_sport.malibu_QR_reader:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -8720,7 +8720,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#backgroundTint}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8731,11 +8731,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:backgroundTint
+          @attr name com.malibu_sport.malibu_QR_reader:backgroundTint
         */
         public static final int View_backgroundTint = 5;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8751,11 +8751,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name ua.opu.itsea.malibu:backgroundTintMode
+          @attr name com.malibu_sport.malibu_QR_reader:backgroundTintMode
         */
         public static final int View_backgroundTintMode = 6;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8767,11 +8767,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:paddingEnd
+          @attr name com.malibu_sport.malibu_QR_reader:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8783,17 +8783,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name ua.opu.itsea.malibu:paddingStart
+          @attr name com.malibu_sport.malibu_QR_reader:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link ua.opu.itsea.malibu.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.malibu_sport.malibu_QR_reader.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name ua.opu.itsea.malibu:theme
+          @attr name com.malibu_sport.malibu_QR_reader:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewStubCompat.

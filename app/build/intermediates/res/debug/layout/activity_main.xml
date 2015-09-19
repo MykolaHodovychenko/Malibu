@@ -107,7 +107,7 @@
                 android:textColor="#ffffff"
                 android:textSize="16sp"
                 app:cpb_textComplete="Всё правильно, нажмите для входа"
-                app:cpb_textError="Ошибка аутентификации"
+                app:cpb_textError="Ошибка авторизации"
                 app:cpb_textIdle="Подключиться"
                 android:layout_marginTop="30dp"
                 android:layout_marginLeft="10dp"

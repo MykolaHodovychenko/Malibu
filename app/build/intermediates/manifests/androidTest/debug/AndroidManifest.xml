@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ua.opu.itsea.malibu.test">
+    package="com.malibu_sport.malibu_QR_reader.test">
 
     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="22" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="ua.opu.itsea.malibu"
+                     android:targetPackage="com.malibu_sport.malibu_QR_reader"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for ua.opu.itsea.malibu"/>
+                     android:label="Tests for com.malibu_sport.malibu_QR_reader"/>
 </manifest>
